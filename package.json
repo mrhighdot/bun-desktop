@@ -1,0 +1,17 @@
+{
+  "name": "bun-todo",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "drizzle-orm": "^1.0.0-rc.5",
+    "raylib": "*"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "drizzle-kit": "^1.0.0-rc.5"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}
